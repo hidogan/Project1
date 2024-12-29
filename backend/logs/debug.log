@@ -1,0 +1,244 @@
+{"level":"info","message":"Server running on port 5000","service":"swimming-training-api","timestamp":"2024-12-29 21:23:47"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:23:47"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:23:47"}
+{"level":"info","message":"Server running on port 5000","service":"swimming-training-api","timestamp":"2024-12-29 21:24:05"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:24:05"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:24:05"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 21:24:08"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 21:24:08"}
+{"level":"info","message":"::1 - - [29/Dec/2024:18:24:08 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 21:24:08"}
+{"level":"info","message":"Server running on port 5000","service":"swimming-training-api","timestamp":"2024-12-29 21:25:40"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:25:40"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:25:40"}
+{"level":"info","message":"Server running on port 5000","service":"swimming-training-api","timestamp":"2024-12-29 21:25:50"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:25:50"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:25:50"}
+{"level":"info","message":"Server running on port 5000","service":"swimming-training-api","timestamp":"2024-12-29 21:27:16"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:27:16"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:27:16"}
+{"level":"info","message":"Server running on port 5000","service":"swimming-training-api","timestamp":"2024-12-29 21:28:01"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:28:01"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:28:01"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:29:51"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:29:51"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:29:51"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:29:55"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:29:55"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:29:55"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:30:54"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:30:54"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:30:54"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 21:32:02"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 21:32:02"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:18:32:02 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 21:32:02"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:32:47"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:32:47"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:32:47"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:33:10"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:33:10"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:33:10"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:33:20"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:33:20"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:33:20"}
+{"level":"info","message":"Server running on http://0.0.0.0:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:33:42"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:33:42"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:33:42"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 21:35:53"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 21:35:53"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:18:35:53 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 21:35:53"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:38:23"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:38:23"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:38:23"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 21:38:49"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 21:38:49"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 21:38:49"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:47:41"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:47:41"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:47:41"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:47:46"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:47:46"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:47:46"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:49:33"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:49:33"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:49:33"}
+{"body":{"daysPerWeek":3,"duration":45,"goals":["Build endurance"],"level":"Intermediate"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 22:49:44"}
+{"level":"info","message":"Creating new training plan:","planData":{"daysPerWeek":3,"duration":45,"goals":["Build endurance"],"level":"Intermediate"},"service":"swimming-training-api","timestamp":"2024-12-29 22:49:44"}
+{"error":"[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent: [403 Forbidden] Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.","level":"error","message":"Error creating training plan:","requestBody":{"daysPerWeek":3,"duration":45,"goals":["Build endurance"],"level":"Intermediate"},"service":"swimming-training-api","stack":"Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent: [403 Forbidden] Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\n    at handleResponseNotOk (C:\\Users\\hdogan\\Project1\\backend\\node_modules\\@google\\generative-ai\\dist\\index.js:414:11)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async makeRequest (C:\\Users\\hdogan\\Project1\\backend\\node_modules\\@google\\generative-ai\\dist\\index.js:387:9)\n    at async generateContent (C:\\Users\\hdogan\\Project1\\backend\\node_modules\\@google\\generative-ai\\dist\\index.js:832:22)","timestamp":"2024-12-29 22:49:45"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:19:49:45 +0000] \"POST /api/trainings HTTP/1.1\" 500 42 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 22:49:45"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:52:03"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:52:03"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:52:03"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:52:06"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:52:06"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:52:06"}
+{"body":{"daysPerWeek":3,"duration":30,"goals":["Improve technique","Build endurance"],"level":"Intermediate"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 22:53:27"}
+{"level":"info","message":"Creating new training plan:","planData":{"daysPerWeek":3,"duration":30,"goals":["Improve technique","Build endurance"],"level":"Intermediate"},"service":"swimming-training-api","timestamp":"2024-12-29 22:53:27"}
+{"level":"info","message":"Using template type:","service":"swimming-training-api","templateType":"quick","timestamp":"2024-12-29 22:53:27"}
+{"level":"info","message":"Successfully created training plan:","planId":"plan-1735502014484","service":"swimming-training-api","timestamp":"2024-12-29 22:53:34"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:19:53:34 +0000] \"POST /api/trainings HTTP/1.1\" 201 860 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 22:53:34"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 22:53:54"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:19:53:54 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 22:53:54"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 22:53:54"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:19:53:54 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 22:53:54"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:58:30"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:58:30"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:58:30"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 22:59:08"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 22:59:08"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 22:59:08"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 22:59:39"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 22:59:39"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:19:59:39 +0000] \"GET / HTTP/1.1\" 200 41 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 22:59:39"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:05"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:00:05 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:00:05"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:05"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:00:05 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:00:05"}
+{"body":{"daysPerWeek":3,"duration":45,"goals":["Improve technique"],"level":"Beginner"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:14"}
+{"level":"info","message":"Creating new training plan:","planData":{"daysPerWeek":3,"duration":45,"goals":["Improve technique"],"level":"Beginner"},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:14"}
+{"level":"info","message":"Using template type:","service":"swimming-training-api","templateType":"creative","timestamp":"2024-12-29 23:00:14"}
+{"level":"info","message":"Successfully created training plan:","planId":"plan-1735502419903","service":"swimming-training-api","timestamp":"2024-12-29 23:00:19"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:00:19 +0000] \"POST /api/trainings HTTP/1.1\" 201 819 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:00:19"}
+{"body":{"createdAt":"2024-12-29T20:00:19.903Z","daysPerWeek":3,"description":"A 45 minute swimming plan for Beginner level, focusing on Improve technique","duration":45,"exercises":[{"name":"Warm-up","notes":"Easy freestyle and breathing exercises (5-10 minutes)","reps":1,"sets":1},{"name":"Main Set","notes":"**Beginner Swimming Training Plan**\n\n**Days Per Week:** 3\n\n**Duration Per Session:** 45 minutes\n\n**Warm-up (5 minutes):**\n- Easy freestyle swim\n\n**Drills (25 minutes):**\n\n* **Front Crawl Arm Drill:**\n","reps":1,"sets":3},{"name":"Cool-down","notes":"Easy swimming and stretching (5-10 minutes)","reps":1,"sets":1}],"goals":["Improve technique"],"id":"plan-1735502419903","level":"Beginner","model":"gemini-pro","name":"Beginner Swimming Plan - 3x per week","provider":"gemini","templateType":"creative"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings/save","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:31"}
+{"level":"info","message":"Saving training plan:","planId":"plan-1735502419903","service":"swimming-training-api","timestamp":"2024-12-29 23:00:31"}
+{"level":"info","message":"Successfully saved training plan:","planId":"plan-1735502419903","service":"swimming-training-api","timestamp":"2024-12-29 23:00:31"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:00:31 +0000] \"POST /api/trainings/save HTTP/1.1\" 200 37 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:00:31"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:40"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:00:40 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:00:40"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:00:40"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:00:40 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:00:40"}
+{"body":{"daysPerWeek":2,"duration":30,"goals":["Improve technique","Weight loss"],"level":"Beginner"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:01:04"}
+{"level":"info","message":"Creating new training plan:","planData":{"daysPerWeek":2,"duration":30,"goals":["Improve technique","Weight loss"],"level":"Beginner"},"service":"swimming-training-api","timestamp":"2024-12-29 23:01:04"}
+{"level":"info","message":"Using template type:","service":"swimming-training-api","templateType":"quick","timestamp":"2024-12-29 23:01:04"}
+{"level":"info","message":"Successfully created training plan:","planId":"plan-1735502469487","service":"swimming-training-api","timestamp":"2024-12-29 23:01:09"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:01:09 +0000] \"POST /api/trainings HTTP/1.1\" 201 841 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:01:09"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:01:55"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:01:55 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:01:55"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:01:55"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:01:55 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:01:55"}
+{"body":{"daysPerWeek":4,"duration":45,"goals":["Build endurance","Increase speed","Competition preparation"],"level":"Advanced"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:02:25"}
+{"level":"info","message":"Creating new training plan:","planData":{"daysPerWeek":4,"duration":45,"goals":["Build endurance","Increase speed","Competition preparation"],"level":"Advanced"},"service":"swimming-training-api","timestamp":"2024-12-29 23:02:25"}
+{"level":"info","message":"Using template type:","service":"swimming-training-api","templateType":"creative","timestamp":"2024-12-29 23:02:25"}
+{"level":"info","message":"Successfully created training plan:","planId":"plan-1735502552925","service":"swimming-training-api","timestamp":"2024-12-29 23:02:32"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:02:32 +0000] \"POST /api/trainings HTTP/1.1\" 201 897 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:02:32"}
+{"body":{"createdAt":"2024-12-29T20:02:32.925Z","daysPerWeek":4,"description":"A 45 minute swimming plan for Advanced level, focusing on Build endurance, Increase speed, Competition preparation","duration":45,"exercises":[{"name":"Warm-up","notes":"Easy freestyle and breathing exercises (5-10 minutes)","reps":1,"sets":1},{"name":"Main Set","notes":"**Advanced Swimming Training Plan**\n\n**Days per Week:** 4\n\n**Session Duration:** 45 minutes\n\n**Goals:** Build endurance, increase speed, competition preparation\n\n**Monday**\n\n* Warm-up: 200m freestyle,","reps":1,"sets":3},{"name":"Cool-down","notes":"Easy swimming and stretching (5-10 minutes)","reps":1,"sets":1}],"goals":["Build endurance","Increase speed","Competition preparation"],"id":"plan-1735502552925","level":"Advanced","model":"gemini-pro","name":"Advanced Swimming Plan - 4x per week","provider":"gemini","templateType":"creative"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings/save","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:02:53"}
+{"level":"info","message":"Saving training plan:","planId":"plan-1735502552925","service":"swimming-training-api","timestamp":"2024-12-29 23:02:53"}
+{"level":"info","message":"Successfully saved training plan:","planId":"plan-1735502552925","service":"swimming-training-api","timestamp":"2024-12-29 23:02:53"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:02:53 +0000] \"POST /api/trainings/save HTTP/1.1\" 200 37 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:02:53"}
+{"body":{"daysPerWeek":3,"duration":45,"goals":["Build endurance"],"level":"Intermediate"},"level":"info","message":"Incoming request:","method":"POST","params":{},"path":"/api/trainings","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:04:35"}
+{"level":"info","message":"Creating new training plan:","planData":{"daysPerWeek":3,"duration":45,"goals":["Build endurance"],"level":"Intermediate"},"service":"swimming-training-api","timestamp":"2024-12-29 23:04:35"}
+{"level":"info","message":"Using template type:","service":"swimming-training-api","templateType":"creative","timestamp":"2024-12-29 23:04:35"}
+{"level":"info","message":"Successfully created training plan:","planId":"plan-1735502681363","service":"swimming-training-api","timestamp":"2024-12-29 23:04:41"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:04:41 +0000] \"POST /api/trainings HTTP/1.1\" 201 821 \"http://localhost:5173/generate\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:04:41"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:07:42"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:07:42 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:07:42"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:07:42"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:07:42 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:07:42"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:07:44"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:07:44 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:07:44"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:07:44"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:07:44 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:07:44"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:07"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:07 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:07"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:07"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:07 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:07"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:10"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:10 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:10"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:10"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:10 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:10"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:42"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:42 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:42"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:42"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:42 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:42"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:45"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:45 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:45"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:45"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:45 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:45"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:53"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:53 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:53"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:53"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:53 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:53"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:55"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:55 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:55"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/api/profile","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:09:55"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:09:55 +0000] \"GET /api/profile HTTP/1.1\" 404 150 \"http://localhost:5173/profile\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:09:55"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:11:38"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:11:38"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:11:38"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:18:43"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:18:43"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:18:43"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:18:48"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:18:48"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:18:48"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:20:19"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:20:19"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:20:19"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:32:40"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:32:40"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:32:40"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:33:05"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 23:33:05"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:33:05 +0000] \"GET / HTTP/1.1\" 200 41 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:33:05"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:34:27"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:34:27"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:34:27"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:36:54"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:36:54"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:36:54"}
+{"level":"info","message":"Server running on http://127.0.0.1:5000","service":"swimming-training-api","timestamp":"2024-12-29 23:37:53"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:37:53"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:37:53"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:39:30"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:39:30"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:39:30"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:39:53"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 23:39:53"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:39:53 +0000] \"GET / HTTP/1.1\" 200 41 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:39:53"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:39:54"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 23:39:54"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:39:54 +0000] \"GET / HTTP/1.1\" 200 41 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:39:54"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:39:55"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 23:39:55"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:39:55 +0000] \"GET / HTTP/1.1\" 200 41 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:39:55"}
+{"body":{},"level":"info","message":"Incoming request:","method":"GET","params":{},"path":"/","query":{},"service":"swimming-training-api","timestamp":"2024-12-29 23:43:31"}
+{"level":"info","message":"Health check request received","service":"swimming-training-api","timestamp":"2024-12-29 23:43:31"}
+{"level":"info","message":"127.0.0.1 - - [29/Dec/2024:20:43:31 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0\"","service":"swimming-training-api","timestamp":"2024-12-29 23:43:31"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:44:03"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:44:03"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:44:03"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:47:25"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:47:25"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:47:25"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:50:00"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:50:00"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:50:00"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:50:02"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:50:02"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:50:02"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:50:23"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:50:23"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:50:23"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:51:18"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:51:18"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:51:18"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:51:23"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:51:23"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:51:23"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:51:39"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:51:39"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:51:39"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:51:41"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:51:41"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:51:41"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:52:07"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:52:07"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:52:07"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:52:58"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:52:58"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:52:58"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:53:13"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:53:13"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:53:13"}
+{"level":"info","message":"Server running on http://127.0.0.1:3001","service":"swimming-training-api","timestamp":"2024-12-29 23:55:55"}
+{"level":"info","message":"Environment: development","service":"swimming-training-api","timestamp":"2024-12-29 23:55:55"}
+{"level":"info","message":"Application startup complete","service":"swimming-training-api","timestamp":"2024-12-29 23:55:55"}
