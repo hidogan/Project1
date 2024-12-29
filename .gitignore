@@ -1,0 +1,3 @@
+# Common .gitignore entries for Node.js projects
+
+node_modules
